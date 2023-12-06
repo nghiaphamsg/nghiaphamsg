@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi there 👋
+#### Software Engineer
+#### Location: Hiroshima, Japan
+#### Domain: Healthcare - Dentistry - Screening
+#### Stack: Metal, Swift, SwiftUI, C/C++, MacOS, Linux
 <!--
 **nghiaphamsg/nghiaphamsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
