@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Software Engineer
+#### Developer
 #### Location: Hiroshima, Japan
 #### Domain: Healthcare - Dentistry - Screening
 #### Stack: Metal, Swift, SwiftUI, C/C++, MacOS, Linux
