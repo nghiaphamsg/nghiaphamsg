@@ -2,7 +2,7 @@
 #### Developer
 #### Location: Hiroshima, Japan
 #### Domain: Healthcare - Dentistry - Screening
-#### Stack: Metal, Swift, SwiftUI, C/C++, MacOS, Linux
+#### Stack: Swift, C/C++, SwiftUI, Metal, VisionOS, MacOS, Linux
 #### Topic: 3DCG, Visualization, Segmentation, Mixed Reality
 <!--
 **nghiaphamsg/nghiaphamsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
