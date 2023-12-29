@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### Developer
-#### Location: Hiroshima, Japan
+#### Location: Osaka, Japan
 #### Domain: Healthcare - Dentistry - Screening
 #### Stack: Swift, C/C++, SwiftUI, Metal, VisionOS, MacOS, Linux
 #### Topic: 3DCG, Visualization, Segmentation, Mixed Reality
