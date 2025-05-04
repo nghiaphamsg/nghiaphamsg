@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Developer
+#### Developer・Bridge System Engineer・Product Owner
 #### Location: Osaka, Japan
 #### Domain: Healthcare - Dentistry - Screening
 #### Stack: Swift, C/C++, SwiftUI, Metal, VisionOS, MacOS, Linux
