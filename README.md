@@ -1,7 +1,6 @@
 ## Hi there 👋
-#### Developer・Bridge System Engineer・Product Owner
-#### Domain: Healthcare - Dentistry - Screening
-#### Stack: Swift, C/C++, SwiftUI, Metal, MacOS, Linux
+#### Bridge System Engineer in JP
+#### Domain: Healthcare, Dentistry, Drug
 #### Topic: 3DCG, Visualization, Segmentation
 <!--
 **nghiaphamsg/nghiaphamsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
